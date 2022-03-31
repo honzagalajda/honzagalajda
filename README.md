@@ -3,8 +3,6 @@
 
 <img src="http://honzagalajda.cekuj.net/www/img/programming.gif" width="200px" align="right" style="float: right;" />
 
-[//]: <> (- 🔭 I’m currently working on **[snow-react](https://github.com/honzagalajda/snow-react)**)
-
 - 🌱 I’m currently learning **[NestJS](https://nestjs.com/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://www.honzagalajda.cekuj.net/)**
