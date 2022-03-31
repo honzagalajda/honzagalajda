@@ -3,7 +3,7 @@
 
 <img src="http://honzagalajda.cekuj.net/www/img/programming.gif" width="200px" align="right" style="float: right;" />
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (- 🔭 I’m currently working on **[snow-react](https://github.com/honzagalajda/snow-react)**)
 
 - 🌱 I’m currently learning **[NestJS](https://nestjs.com/)**
 
