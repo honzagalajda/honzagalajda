@@ -3,6 +3,8 @@
 
 <img src="http://honzagalajda.cekuj.net/www/img/programming.gif" width="200px" align="right" style="float: right;" />
 
+[comment]: <> (This is a comment, it will not be included)
+
 - 🌱 I’m currently learning **[NestJS](https://nestjs.com/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://www.honzagalajda.cekuj.net/)**
