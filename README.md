@@ -21,7 +21,6 @@
 <img src="http://honzagalajda.cekuj.net/www/img/github/nestjs.svg" width="32px" /> &nbsp;&nbsp;&nbsp;
 <img src="http://honzagalajda.cekuj.net/www/img/github/firebase.svg" width="32px" /> &nbsp;&nbsp;&nbsp;
 <img src="http://honzagalajda.cekuj.net/www/img/github/git.svg" width="32px" /> &nbsp;&nbsp;&nbsp;
-<img src="http://honzagalajda.cekuj.net/www/img/github/c-.png" width="32px" /> &nbsp;&nbsp;&nbsp;
 
 ## 💬 Contact
 **[<img src="http://honzagalajda.cekuj.net/www/img/instagram.png" width="32px" style="margin-right:25px;" />](https://www.instagram.com/honzagalajda/)** &nbsp;&nbsp;&nbsp;
