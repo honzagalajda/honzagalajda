@@ -3,9 +3,9 @@
 
 <img src="http://honzagalajda.cekuj.net/www/img/programming.gif" width="200px" align="right" style="float: right;" />
 
-- 🔭 I’m currently working on my agency
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **[WordPress](https://wordpress.org/)**
+- 🌱 I’m currently learning **[Astro](https://astro.build/)**
 
 - 📫 How to reach me: **honza.galajda@seznam.cz**
 
